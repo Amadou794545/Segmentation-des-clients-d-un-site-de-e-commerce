@@ -53,4 +53,4 @@ Le projet aboutit à une segmentation des clients en différents groupes basés 
 
 ## Contact
 
-Pour toute question ou suggestion, vous pouvez me contacter à [email@example.com](mailto:email@example.com).
+Pour toute question ou suggestion, vous pouvez me contacter à [amadoumbodj2294@gmail.com](mailto:amadoumbodj2294@gmail.com).
